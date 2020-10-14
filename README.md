@@ -4,7 +4,7 @@
 I found the motivation for this project from my Bootcamp class, as it happens to be the first homework assignment.
 
 # Screenshot
-![here's a screengrab of the top of the site](screenshot.png)
+![](screenshot_markdown.jpg)
 
 # How To Use
 Click around! View the code! Knock yourself out!
